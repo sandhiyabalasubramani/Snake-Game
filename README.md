@@ -138,3 +138,4 @@ python snake.py --screenshot
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) - open for learning, modification, and sharing.
+
